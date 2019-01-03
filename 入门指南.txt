@@ -1,7 +1,6 @@
+
 原文地址：https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html
-
 elasticsearch版本：6.5
-
 
     ElasticSearch是一个高度可扩展的开源全文搜索和分析引擎。它允许您快速、近实时地存储、搜索和分析大量数据。它通常被用作驱动具有复杂搜索功能和需求的应用程序的底层引擎/技术。
 
